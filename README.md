@@ -11,5 +11,6 @@ I have used python programming to clean the data and Tableau for visualization.<
 
 [Click_Here](https://public.tableau.com/app/profile/ravi.chandrika/viz/MY_SIZ_YEARS_OF_SHOPPING_ON_AMAZON/6YEARS_AMAZON_SHOPPING)
 
-![AMAZON_ORDERS](https://user-images.githubusercontent.com/51845833/147342954-229c0e48-eeed-4b90-bc3c-c224192fd233.png)
+![AMAZON_ORDERS](https://user-images.githubusercontent.com/51845833/147343113-f46135c5-1254-4000-a4a0-61405deb1a68.png)
+
 
