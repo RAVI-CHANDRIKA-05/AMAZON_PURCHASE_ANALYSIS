@@ -7,9 +7,9 @@ The main aim of this project is to understand how much I have spend on amazon.in
 I have used python programming to clean the data and Tableau for visualization.<br>
 
 
-## <span style='color:Orange'> Link to Tableau Visualization  </span>
+## <span style='color:Orange'> Tableau Visualization  </span>
 
-[Click_Here](https://public.tableau.com/app/profile/ravi.chandrika/viz/MY_SIZ_YEARS_OF_SHOPPING_ON_AMAZON/6YEARS_AMAZON_SHOPPING)
+[Click_Here ( Link to Tableau Visualization)](https://public.tableau.com/app/profile/ravi.chandrika/viz/MY_SIZ_YEARS_OF_SHOPPING_ON_AMAZON/6YEARS_AMAZON_SHOPPING)
 
 ![AMAZON_ORDERS](https://user-images.githubusercontent.com/51845833/147343113-f46135c5-1254-4000-a4a0-61405deb1a68.png)
 
